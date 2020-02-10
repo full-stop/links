@@ -54,6 +54,7 @@
 
 - 多吉搜索 : https://www.dogedoge.com/
 - JQ源码查看器 : https://www.html.cn/tool/jQuerySourceViewer/
+- 站长正则表达式测试工具: http://tool.chinaz.com/regex
 - 可视化正则测试工具(1) : https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
 - 可视化正则测试工具(2) : https://regexper.com/
 - landing -首页模版 : https://landing.ant.design/index-cn
